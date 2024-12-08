@@ -1,6 +1,6 @@
 参考源码：  **[LapDepth-release](https://github.com/tjqansthd/LapDepth-release)**
 
-数据集下载在datasets的kitti_archives_to_download.txt中。 下载好放在datatsets/KITTI里解压就行
+数据集下载链接在datasets的kitti_archives_to_download.txt中，建议用Notepad++打开，这样双击链接就下载了。 下载好放在datatsets/KITTI里解压就行
 
 eigen_test_files_with_gt_dense-bac.txt和eigen_train_files_with_gt_dense-bac.txt分别是完整的测试集和训练集目录。我自己从里面抽了2011_09_26_drive_0001_sync和2011_09_26_drive_0005_sync作为训练集，2011_09_26_drive_0002_sync作为测试集，写在了eigen_train_files_with_gt_dense.txt和eigen_test_files_with_gt_dense.txt里。如果你觉得数据不够就将这两文件内容改一下就好了，或者你直接用完整版的，把后面的-bac删掉就好。
 
