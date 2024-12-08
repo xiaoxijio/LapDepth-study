@@ -6,7 +6,7 @@ eigen_test_files_with_gt_dense-bac.txt和eigen_train_files_with_gt_dense-bac.txt
 
 需要自己下载深度估计标注数据：http://www.cvlibs.net/download.php?file=data_depth_annotated.zip
 
-这个外网贼难下，我提供了夸克链接（里面包含了LDRN_KITTI_ResNext101_pretrained_data.pkl）：晚点上传
+这个外网贼难下，我提供了夸克链接（里面包含了LDRN_KITTI_ResNext101_pretrained_data.pkl）：https://pan.quark.cn/s/8b10d41a3824
 
 下载好放在datatsets/KITTI里解压就行
 
